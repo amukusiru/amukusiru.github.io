@@ -1,0 +1,9 @@
+course ：　国家紹介画像
+flag   ：　触らない(旗)
+gal　 　：　スライド(下)
+ico　　 ：　触らない(apng 途中文房具)
+ico_tel　：　右上電話
+identity　：　メインアイコン
+main　　：　大きいスライド(一番上)
+rocket　：　ページトップリンク
+minecraftimage　：　コンセプトの真ん中の画像
